@@ -15,6 +15,7 @@ to open the web interface.
 
 
 ## Project Structure
+```bash
 camp-slot-watcher/
  ├── app/
  │   ├── server.py
@@ -22,3 +23,4 @@ camp-slot-watcher/
  │       └── slot_checker.py
  ├── requirements.txt
  └── README.md
+ ```
