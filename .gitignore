@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+#backup files
+app/tools/slot_checker_2.py
+*.backup
+*.bak
+*.old
+*.orig
+*.rej
+*.orig
+*.rej
+*.orig
+*.rej
+*.orig
+*.rej
+
+#test
+test/
